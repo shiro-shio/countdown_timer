@@ -5,5 +5,7 @@
 有需要客制化與追加功能可連絡我。
 
 免安裝，可直接使用
+[點這下載]([https://pages.github.com/](https://github.com/shiro-shio/countdown_timer/releases/download/v0.1/countdown_timer.exe)).
+
 
 ![ScreenShot_20240308210857](https://github.com/shiro-shio/countdown_timer/assets/67617035/202f9073-1de2-440c-a160-140692f6d850)
